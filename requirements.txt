@@ -1,0 +1,1 @@
+You are required to download Pyvista to your terminal. This will allow you to see the model and click on it as well. 
