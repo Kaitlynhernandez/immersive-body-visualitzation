@@ -21,9 +21,9 @@ speak_definition(body_part_def)
 this will display the definition of the body part that was clicked on 
 
 ## Example Use Case 
-Students preparing for an anatomy exam and can quiz themselves with the body and definitions that they will need to know 
+showing someone who does not know the body (a small child) the basics of the body  
 
 ## Data Input 
-Panda3D
+Pyvista
 
 
