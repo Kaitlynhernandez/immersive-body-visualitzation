@@ -1,1 +1,2 @@
 You are required to download Pyvista to your terminal. This will allow you to see the model and click on it as well. 
+run in terminal by using python3 model.py
