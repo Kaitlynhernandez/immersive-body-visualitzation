@@ -51,7 +51,7 @@ class BodyModel:
                         print(f"Function: {description}")
                         self.plotter.add_text(f"Picked part: {part_name}", position='upper_left', font_size=12, color='black')
                         return
-            print("No matching part found.")
+            print("Body model clicked, but no matching part found.")
         else:
             print("You clicked the body model, but it is not a MultiBlock object.")
             description = self.part_data.get("Unknown part", "No description available")
